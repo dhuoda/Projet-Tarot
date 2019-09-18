@@ -189,6 +189,10 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CDonne.h" />
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CJoueur.h" />
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CPartie.h" />
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\Ihm.h" />
     <ClInclude Include="Projet Tarot.h" />
     <ClInclude Include="Projet TarotDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -196,6 +200,11 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CDonne.cpp" />
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\Cjoueur.cpp" />
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CPartie.cpp" />
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\IHM.cpp" />
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\Taro.cpp" />
     <ClCompile Include="Projet Tarot.cpp" />
     <ClCompile Include="Projet TarotDlg.cpp" />
     <ClCompile Include="stdafx.cpp">

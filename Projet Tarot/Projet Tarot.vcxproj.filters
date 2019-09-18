@@ -33,6 +33,18 @@
     <ClInclude Include="Resource.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CDonne.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CJoueur.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CPartie.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\Ihm.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Projet Tarot.cpp">
@@ -42,6 +54,21 @@
       <Filter>Fichiers sources</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CDonne.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\Cjoueur.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\CPartie.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\IHM.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glorieux\Source\Repos\Code-de-Classe-Tarot\Code de Classe Tarot\Taro.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
